@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Red Alert Engine", "Red Alert Engine\Red Alert Engine.csproj", "{164ED005-82D7-4747-A0D9-8499977A2975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{164ED005-82D7-4747-A0D9-8499977A2975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164ED005-82D7-4747-A0D9-8499977A2975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164ED005-82D7-4747-A0D9-8499977A2975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164ED005-82D7-4747-A0D9-8499977A2975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {627827DF-4A8A-49B9-AA14-F1630840D179}
+	EndGlobalSection
+EndGlobal
